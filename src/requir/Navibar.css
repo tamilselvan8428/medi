@@ -1,0 +1,26 @@
+*{
+    top:0%;
+    padding:0%;
+    margin: 0%;
+   
+   
+}
+#li{
+    text-align: right;
+    float: right;
+    padding-left: 1%;
+    padding-right:1% ;
+    gap: 10%;
+    color: black;
+}
+#head{
+    text-align: left;
+}
+#name{
+    background-color: #1a56b8ef;
+    padding: 1%;
+}
+#li:hover{
+    color: red;
+    transform: scale(1.1);
+}

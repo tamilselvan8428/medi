@@ -1,0 +1,37 @@
+*{
+    text-align: center;
+}
+
+input{
+    padding: 1%;
+}
+
+button{
+    width: 15%;
+    background-color: green;
+    border-radius: 5%;
+    font-size: medium;
+    box-shadow: 2px 3px 5px;
+}
+
+.Main{
+    border: 2px solid black;
+    border-radius: 5%;
+    width: 30%;
+    margin-left: 34%;
+    margin-top: 5%;
+    padding-bottom: 1%;
+    background-color: rgba(0, 255, 255, 0.547);
+
+}
+
+Link{
+    margin-bottom: 5%;
+}
+#head1{
+    
+    background-image: url("OIP.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding-bottom: 19%;
+}

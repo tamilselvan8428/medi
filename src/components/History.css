@@ -1,0 +1,16 @@
+#value{
+    border:1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    width: 25% ;
+    text-align: center;
+    margin-left: 35%;
+    margin-top: 3%;
+    padding: 2%;
+}
+#head4{
+    background-image: url("OIP.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding-bottom: 27%;
+}

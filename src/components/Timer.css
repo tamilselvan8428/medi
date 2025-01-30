@@ -1,0 +1,9 @@
+h1{
+    margin-top: 3%;
+}
+#im{
+    background-image: url("OIP.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding-bottom: 27%;
+}
